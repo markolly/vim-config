@@ -1,3 +1,4 @@
+![Alt text](/../screenshots/images/Screenshot1.png?raw=true "Screenshot 1")
 
 ## Install
 
