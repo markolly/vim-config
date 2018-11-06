@@ -8,9 +8,16 @@ $ git clone git@github.com:markolly/vim-config.git ~/.vim
 ```
 
 ## Install
+This will install a vimrc file into ~/.vim and run plugin installation
 ```
 $ cd ~/.vim
 $ make install
+```
+
+## Uninstall
+This command will delete all contents of ~/.vim
+```
+$ make clean
 ```
 
 ### Notes
