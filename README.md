@@ -19,7 +19,12 @@ Default plugins on installation:
  - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)
  - [avelino/vim-bootstrap-updater](https://github.com/avelino/vim-bootstrap-updater)
  - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
-
+ - [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim)
+ - [xolox/vim-misc](https://github.com/xolox/vim-misc)
+ - [xolox/vim-session](https://github.com/xolox/vim-session)
+ - [honza/vim-snippets](https://github.com/honza/vim-snippets)
+ - [tomasr/molokai](https://github.com/tomasr/molokai)
+ 
 ## Install
 This will install a vimrc file into ~/.vim and run plugin installation
 ```
