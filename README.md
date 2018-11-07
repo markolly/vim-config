@@ -1,15 +1,10 @@
-# A Vim configuration for OSX
+# A Vim configuration
 ![Alt text](/../screenshots/images/Screenshot1.png?raw=true "Screenshot 1")
-
-## Pre-reqs
-```
-$ brew install ctags git
-$ git clone git@github.com:markolly/vim-config.git ~/.vim
-```
 
 ## Install
 This will install a vimrc file into ~/.vim and run plugin installation
 ```
+$ git clone git@github.com:markolly/vim-config.git ~/.vim
 $ cd ~/.vim
 $ make install
 ```
