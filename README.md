@@ -40,4 +40,4 @@ $ make clean
 ```
 
 ### Notes
-On OSX I would recommend iTerm2 instead of the standard terminal. After extending VIM with various plugins the standard terminal becomes laggy and unresponsive.
+On OSX I would recommend iTerm2 instead of the standard terminal. After extending VIM with various plugins the standard terminal can become laggy and unresponsive.
