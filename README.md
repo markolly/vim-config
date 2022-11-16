@@ -28,6 +28,7 @@ Default plugins on installation:
 ## Install
 This will install a vimrc file into ~/.vim and run plugin installation
 ```
+$ brew install ctags git
 $ git clone git@github.com:markolly/vim-config.git ~/.vim
 $ cd ~/.vim
 $ make install
