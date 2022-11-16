@@ -16,7 +16,6 @@ Default plugins on installation:
  - [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate)
  - [majutsushi/tagbar](https://github.com/majutsushi/tagbar)
  - [scrooloose/syntastic](https://github.com/vim-syntastic/syntastic)
- - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)
  - [avelino/vim-bootstrap-updater](https://github.com/avelino/vim-bootstrap-updater)
  - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
  - [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim)
@@ -24,6 +23,9 @@ Default plugins on installation:
  - [xolox/vim-session](https://github.com/xolox/vim-session)
  - [honza/vim-snippets](https://github.com/honza/vim-snippets)
  - [tomasr/molokai](https://github.com/tomasr/molokai)
+ - [rodjek/vim-puppet](https://github.com/rodjek/vim-puppet)
+ - [vim-ruby/vim-ruby](https://github.com/vim-ruby/vim-ruby)
+
  
 ## Install
 This will install a vimrc file into ~/.vim and run plugin installation
