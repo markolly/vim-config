@@ -46,6 +46,8 @@ Plug 'majutsushi/tagbar'
 Plug 'scrooloose/syntastic'
 Plug 'avelino/vim-bootstrap-updater'
 Plug 'sheerun/vim-polyglot'
+Plug 'rodjek/vim-puppet' " For Puppet syntax highlighting
+Plug 'vim-ruby/vim-ruby' " For Facts, Ruby functions, and custom providers
 
 if isdirectory('/usr/local/opt/fzf')
   Plug '/usr/local/opt/fzf' | Plug 'junegunn/fzf.vim'
